@@ -1,0 +1,3 @@
+Name: Amuktha malyada
+Course: BCA
+Today I learned about GitHub, Creation of GitHub account, Creation of repositories and uploading files in repositories.
